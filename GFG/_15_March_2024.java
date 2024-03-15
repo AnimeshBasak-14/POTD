@@ -1,4 +1,4 @@
-package POTD;
+package POTD.GFG;
 
 
 

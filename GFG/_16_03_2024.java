@@ -1,6 +1,15 @@
 package POTD.GFG;
 
 public class _16_03_2024 {
+    class Node {
+        int data;
+        Node next;
+
+        public Node (int data){
+            this.data = data;
+            this.next = null;
+        }
+    }
     class Solution
     {
         void deleteNode(Node del_node)

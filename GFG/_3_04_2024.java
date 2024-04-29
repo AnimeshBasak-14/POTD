@@ -4,7 +4,17 @@ import java.util.*;
 
 public class _3_04_2024 {
 
+    class Node {
+        int data;
+        Node left;
+        Node right;
 
+        public Node (int data){
+            this.data = data;
+            this.left = null;
+            this.right = null;
+        }
+    }
     // User function Template for Java
     class Solution {
         int LCA(Node root,int x,int y){

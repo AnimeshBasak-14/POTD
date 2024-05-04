@@ -2,7 +2,7 @@ package POTD.GFG;
 
 import java.util.ArrayList;
 
-public class _2024_05_3 {
+public class _2024_05_03 {
 
 //User function Template for Java
 
